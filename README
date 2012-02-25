@@ -1,0 +1,5 @@
+Copyright (c) 2012 Bharath Ramesh <bramesh.dev@gmail.com>.
+
+Simple NBD
+==========
+This is a minimal version of the NBD userland support files.
